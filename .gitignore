@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+
+/UnityProject/*.csproj
+/UnityProject/*.unityproj
+/UnityProject/*.sln
+/UnityProject/*.suo
+/UnityProject/*.user
+/UnityProject/*.userprefs
+/UnityProject/*.pidb
+/UnityProject/*.booproj
